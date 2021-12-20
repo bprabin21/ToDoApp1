@@ -1,4 +1,4 @@
-package com.example.todo_app1;
+package com.example.todo_app;
 
 import org.junit.Test;
 
